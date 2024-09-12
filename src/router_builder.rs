@@ -361,7 +361,7 @@ where
         #[cfg(debug_assertions)]
         #[allow(clippy::unwrap_used)]
         if let Some(export_path) = export_path {
-            router.export_ts(export_path).unwrap();
+            router.export_ts(export_path, None).unwrap();
         }
 
         router
