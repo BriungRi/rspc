@@ -13,7 +13,7 @@
     "@headlessui/react": "^2.0.3",
     "@heroicons/react": "^2.0.18",
     "@vercel/og": "^0.6.2",
-    "next": "^14.2.3",
+    "next": "^14.2.10",
     "nextra": "^2.13.2",
     "nextra-theme-docs": "^2.13.2",
     "react": "^18.2.0",
